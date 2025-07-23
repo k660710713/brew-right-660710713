@@ -98,7 +98,7 @@ git push origin lab/week3
 1. ไปที่หน้า GitHub ของ repo
 2. จะเห็นปุ่ม **Compare & pull request**
 3. คลิก **Compare & pull request**
-4. ใส่หัวเรื่อง: `Week 3: Data Ingestion และ Bronze Layer Implementation`
+4. ใส่หัวเรื่อง: 
 5. ใส่รายละเอียด
    ```
    ## สิ่งที่เพิ่มใน Week 3
@@ -135,7 +135,7 @@ git push origin lab/week3
 3. ลบ branch `lab/week3` บน GitHub
 
 ---
-
+`Week 3: Data Ingestion และ Bronze Layer Implementation`
 ## 9. Pull การเปลี่ยนแปลงกลับมาที่เครื่อง
 
 ```bash
